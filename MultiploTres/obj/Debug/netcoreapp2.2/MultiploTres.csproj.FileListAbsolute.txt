@@ -1,0 +1,11 @@
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\bin\Debug\netcoreapp2.2\MultiploTres.deps.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\bin\Debug\netcoreapp2.2\MultiploTres.runtimeconfig.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\bin\Debug\netcoreapp2.2\MultiploTres.runtimeconfig.dev.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\bin\Debug\netcoreapp2.2\MultiploTres.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\bin\Debug\netcoreapp2.2\MultiploTres.pdb
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\obj\Debug\netcoreapp2.2\MultiploTres.csprojAssemblyReference.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\obj\Debug\netcoreapp2.2\MultiploTres.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\obj\Debug\netcoreapp2.2\MultiploTres.AssemblyInfoInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\obj\Debug\netcoreapp2.2\MultiploTres.AssemblyInfo.cs
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\obj\Debug\netcoreapp2.2\MultiploTres.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\MultiploTres\obj\Debug\netcoreapp2.2\MultiploTres.pdb

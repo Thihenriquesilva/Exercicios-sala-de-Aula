@@ -1,0 +1,11 @@
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\obj\Debug\netcoreapp2.2\Alfabeto.csprojAssemblyReference.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\obj\Debug\netcoreapp2.2\Alfabeto.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\obj\Debug\netcoreapp2.2\Alfabeto.AssemblyInfoInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\obj\Debug\netcoreapp2.2\Alfabeto.AssemblyInfo.cs
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\bin\Debug\netcoreapp2.2\Alfabeto.deps.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\bin\Debug\netcoreapp2.2\Alfabeto.runtimeconfig.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\bin\Debug\netcoreapp2.2\Alfabeto.runtimeconfig.dev.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\bin\Debug\netcoreapp2.2\Alfabeto.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\bin\Debug\netcoreapp2.2\Alfabeto.pdb
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\obj\Debug\netcoreapp2.2\Alfabeto.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\Alfabeto\obj\Debug\netcoreapp2.2\Alfabeto.pdb

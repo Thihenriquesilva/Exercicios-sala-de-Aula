@@ -1,0 +1,11 @@
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\bin\Debug\netcoreapp2.2\Piramide.deps.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\bin\Debug\netcoreapp2.2\Piramide.runtimeconfig.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\bin\Debug\netcoreapp2.2\Piramide.runtimeconfig.dev.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\bin\Debug\netcoreapp2.2\Piramide.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\bin\Debug\netcoreapp2.2\Piramide.pdb
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\obj\Debug\netcoreapp2.2\Piramide.csprojAssemblyReference.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\obj\Debug\netcoreapp2.2\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\obj\Debug\netcoreapp2.2\Piramide.AssemblyInfoInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\obj\Debug\netcoreapp2.2\Piramide.AssemblyInfo.cs
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\obj\Debug\netcoreapp2.2\Piramide.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\Piramide\obj\Debug\netcoreapp2.2\Piramide.pdb

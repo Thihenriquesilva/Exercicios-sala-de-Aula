@@ -1,0 +1,11 @@
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\obj\Debug\netcoreapp2.2\PesoPlanetas.csprojAssemblyReference.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\obj\Debug\netcoreapp2.2\PesoPlanetas.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\obj\Debug\netcoreapp2.2\PesoPlanetas.AssemblyInfoInputs.cache
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\obj\Debug\netcoreapp2.2\PesoPlanetas.AssemblyInfo.cs
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\bin\Debug\netcoreapp2.2\PesoPlanetas.deps.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\bin\Debug\netcoreapp2.2\PesoPlanetas.runtimeconfig.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\bin\Debug\netcoreapp2.2\PesoPlanetas.runtimeconfig.dev.json
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\bin\Debug\netcoreapp2.2\PesoPlanetas.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\bin\Debug\netcoreapp2.2\PesoPlanetas.pdb
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\obj\Debug\netcoreapp2.2\PesoPlanetas.dll
+C:\Users\47490086809\Desktop\EXERC-SENAI\PesoPlanetas\obj\Debug\netcoreapp2.2\PesoPlanetas.pdb
