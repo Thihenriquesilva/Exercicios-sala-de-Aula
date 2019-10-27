@@ -1,0 +1,11 @@
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\bin\Debug\netcoreapp2.2\Desafio13.deps.json
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\bin\Debug\netcoreapp2.2\Desafio13.runtimeconfig.json
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\bin\Debug\netcoreapp2.2\Desafio13.runtimeconfig.dev.json
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\bin\Debug\netcoreapp2.2\Desafio13.dll
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\bin\Debug\netcoreapp2.2\Desafio13.pdb
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\obj\Debug\netcoreapp2.2\Desafio13.csprojAssemblyReference.cache
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\obj\Debug\netcoreapp2.2\Desafio13.csproj.CoreCompileInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\obj\Debug\netcoreapp2.2\Desafio13.AssemblyInfoInputs.cache
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\obj\Debug\netcoreapp2.2\Desafio13.AssemblyInfo.cs
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\obj\Debug\netcoreapp2.2\Desafio13.dll
+C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio13\obj\Debug\netcoreapp2.2\Desafio13.pdb
