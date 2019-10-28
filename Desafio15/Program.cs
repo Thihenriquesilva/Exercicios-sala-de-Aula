@@ -34,14 +34,14 @@ namespace Desafio15
             System.Console.WriteLine("Digite um numero de 1 a 12");
             i = int.Parse(Console.ReadLine());
 
-            if(i<=12){
+            if((i<=12)&&(i>=1)){
                 System.Console.WriteLine();
                 System.Console.WriteLine(calendario[i]);
             }else{
                 System.Console.WriteLine("Invalido");
             }
 
-           System.Console.WriteLine();
+            System.Console.WriteLine();
 
             System.Console.WriteLine("Deseja tentar novamente S/N");
             opcao = Console.ReadLine();

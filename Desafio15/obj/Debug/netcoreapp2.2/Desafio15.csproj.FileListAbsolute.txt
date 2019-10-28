@@ -9,3 +9,14 @@ C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio15\bin\Debug\n
 C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio15\bin\Debug\netcoreapp2.2\Desafio15.pdb
 C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.dll
 C:\Users\thi_s\OneDrive\Documentos\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.pdb
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\bin\Debug\netcoreapp2.2\Desafio15.deps.json
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\bin\Debug\netcoreapp2.2\Desafio15.runtimeconfig.json
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\bin\Debug\netcoreapp2.2\Desafio15.runtimeconfig.dev.json
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\bin\Debug\netcoreapp2.2\Desafio15.dll
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\bin\Debug\netcoreapp2.2\Desafio15.pdb
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.csprojAssemblyReference.cache
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.csproj.CoreCompileInputs.cache
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.AssemblyInfoInputs.cache
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.AssemblyInfo.cs
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.dll
+C:\Users\47490086809\Documents\Exercicios-sala-de-Aula\Desafio15\obj\Debug\netcoreapp2.2\Desafio15.pdb
